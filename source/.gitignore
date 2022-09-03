@@ -1,0 +1,7 @@
+nimcache
+profile_*
+.ispry-history
+bin/spry
+bin/ispry
+.vagrant
+*.log
