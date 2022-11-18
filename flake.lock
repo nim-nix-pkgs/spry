@@ -471,11 +471,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668751235,
-        "narHash": "sha256-sErvZ0CX+R4eweItmkN41br+5dsfGi7Z2q03wDYZ5SE=",
+        "lastModified": 1668751247,
+        "narHash": "sha256-D2GBxLG+vuOJONGLRfSRHVygmdhlmf0b6BEk71yBCx8=",
         "owner": "nim-nix-pkgs",
         "repo": "spry",
-        "rev": "85f15a77c7173aab663a7072e208c35fcb7a4c4b",
+        "rev": "7e1f2f506aee955dfe6642785ab6488c0ba5fbda",
         "type": "github"
       },
       "original": {
